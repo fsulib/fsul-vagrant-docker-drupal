@@ -1,5 +1,5 @@
-# fsul-vagrant-docker-drupal8
-The purpose of this VM is to test the feasability of running Drupal 8 
+# fsul-vagrant-docker-drupal8x
+The purpose of this VM is to test the feasability of running Drupal 8x
 on Florida State University Libraries infrastructure using Docker containers. 
 
 ## VM System Components
