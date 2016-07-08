@@ -1,5 +1,13 @@
 # fsul-vagrant-docker-drupal8
-A Vagrant VM that loads Docker containers to run Drupal
+The purpose of this VM is to test the feasability of running Drupal 8 
+on Florida State University Libraries infrastructure using Docker containers. 
 
-# Base
-CentOS 7.1 (https://atlas.hashicorp.com/bento/boxes/centos-7.1)
+## VM System Components
+* CentOS v7.1 (https://atlas.hashicorp.com/bento/boxes/centos-7.1)
+* Docker v1.11.2 (latest)
+
+## Containers
+* ???
+
+## Maintainer
+Bryan J. Brown (https://github.com/bryjbrown)
